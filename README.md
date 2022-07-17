@@ -9,7 +9,7 @@ All elements are inside UIScrollView, which provides support for landscape mode.
 Text fields are ordered using UIStackView.<br>
 Implemented hiding the keyboard when tapping on the screen and when scrolling content. <br>
 Implemented raising the text field when the keyboard appears and back <br><br>
-<img width="280" src="https://user-images.githubusercontent.com/80542175/179417205-481a2ee1-45e0-4ba5-ab2a-eba22b900c6b.png"><img width="600" height="300" src="https://user-images.githubusercontent.com/80542175/179417206-dcfd931b-23de-4674-9455-69c9373bd7a7.gif">
+<img width="280" src="https://user-images.githubusercontent.com/80542175/179417205-481a2ee1-45e0-4ba5-ab2a-eba22b900c6b.png"><img width="600" height="300" src="https://user-images.githubusercontent.com/80542175/179420620-1fee5f88-099b-4da2-9d21-59ec73fe6e0c.gif">
 
 ## Second App
 Temperature converter. <br>
@@ -26,3 +26,5 @@ The Main Screen has a text field in which you can pass data to the login field o
 Also implemented only portrait display mode in the first ViewController 
 using the overridden property `supportedInterfaceOrientations` of the ViewController<br><br>
 <img width="656" src="https://user-images.githubusercontent.com/80542175/179417194-c3d10e33-f123-44dd-8427-a4e911fade2d.png">
+
+
